@@ -116,7 +116,7 @@ function App() {
 
 
   return (
-    <div className='container w-[2100px]'>
+    <div className=''>
       <Header/>
       <div className="container rounded-[2%] m-auto w-[778px] bg-green-300 mt-16">
         
